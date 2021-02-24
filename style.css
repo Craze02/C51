@@ -1,0 +1,23 @@
+h1{
+    color : black
+}
+/* *{
+    border : solid
+}*/
+.header{
+    background-color: #17C2C4;
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: first baseline;
+}
+body {
+    background-color: #C2FCFD;
+}
